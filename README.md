@@ -1,2 +1,2 @@
-python_solutions
+python_solutions from exercism.io
 ================
